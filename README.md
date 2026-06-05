@@ -6,7 +6,7 @@ A modern and simple web application to track job applications efficiently with a
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://modibodi057-collab.github.io/Smart-Task-Tracker/)
+👉 [View Live Demo]( https://modibodi057-collab.github.io/Ausbildung-Application-Tracker/)
 
 ---
 
