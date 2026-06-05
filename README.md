@@ -1,51 +1,77 @@
-# 📊 Job Application Tracker
+# 📊 Smart Task Tracker / Job Application Tracker
 
-A simple web application to track job applications in an organized way, with data saved directly in the browser.
+A modern and simple web application to track job applications efficiently with a clean and responsive UI.
+
+---
+
+## 🚀 Live Demo
+
+👉 [View Live Demo](https://modibodi057-collab.github.io/Smart-Task-Tracker/)
+
+---
+
+## 📸 Preview
+
+![App Screenshot](screenshot.png)
+
+---
+
+## 🎥 Demo Video
+
+<p align="center">
+  <video src="
+
+" width="100%" controls></video>
+</p>
 
 ---
 
 ## ✨ Features
 
-- Add new job applications
-- Edit and delete applications
-- Search through applications
+- Add new job applications or tasks
+- Edit and delete entries easily
+- Search functionality for quick access
 - Filter by status (Applied / Interview / Accepted / Rejected)
-- Dashboard with statistics for each status
+- Live dashboard with statistics
 - Dark mode support
-- Automatic saving using LocalStorage
+- Fully responsive design
+- Automatic data saving in browser
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript (Vanilla JS)
-- LocalStorage API
 
 ---
 
-## 🚀 How to Run
+## 📚 What I Learned
 
-1. Download or clone the project
-2. Open `index.html` in your browser
-3. Start adding your applications
+- DOM manipulation and dynamic rendering  
+- State management using JavaScript arrays  
+- Building interactive UI components  
+- Handling user input and events  
+- Creating a full frontend project from scratch  
 
 ---
 
 ## 💡 How to Use
 
-- Fill in the form and click **Add Application**
-- Use the search bar to find specific applications
-- Filter by status to view specific categories
-- Click **Edit** to update an application
-- Click **Delete** to remove an application
+- Add a new application using the form  
+- Search for specific entries  
+- Filter by status  
+- Edit or delete any item  
 
 ---
 
-## 📂 Data Storage
+## 🎯 Project Purpose
 
-All data is stored in the browser using:
+This project was built to simulate a real-world tracking system and improve core frontend development skills while building a practical portfolio project.
 
-```js
-localStorage
+---
+
+## 📌 Note
+
+This project was built without external frameworks to focus on JavaScript fundamentals and clean UI design.
