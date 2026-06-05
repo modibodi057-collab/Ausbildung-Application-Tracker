@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Ausbildung Application Tracker Dashboard</title>
+
+    <link href="style.css" rel="stylesheet">
+
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="contianer">
+
+        <!-- NAVBAR -->
+        <nav class="navbar">
+            <h1>Ausbildung Application Tracker</h1>
+            <button class="theme-btn">Dark Mode</button>
+        </nav>
+
+        <!-- DASHBOARD -->
+        <section class="dashboard">
+            <div class="card applied">
+                <h2>0</h2>
+                <p>Applied</p>
+            </div>
+
+            <div class="card interview">
+                <h2>0</h2>
+                <p>Interview</p>
+            </div>
+
+            <div class="card accepted">
+                <h2>0</h2>
+                <p>Accepted</p>
+            </div>
+
+            <div class="card rejected">
+                <h2>0</h2>
+                <p>Rejected</p>
+            </div>
+        </section>
+
+        <!-- FORM -->
+        <section class="form-section">
+            <h1>Add Application</h1>
+
+            <form id="jobForm">
+                <input type="text" id="company" placeholder="Company Name">
+                <input type="text" id="position" placeholder="Position">
+                <input type="date" id="date">
+
+                <select id="status">
+                    <option value="Applied">Applied</option>
+                    <option value="Interview">Interview</option>
+                    <option value="Accepted">Accepted</option>
+                    <option value="Rejected">Rejected</option>
+                </select>
+
+                <textarea id="notes" placeholder="Notes..."></textarea>
+
+                <button type="submit">Add Application</button>
+                <button type="button" id="cancelBtn">Cancel</button>
+            </form>
+        </section>
+
+        <!-- SEARCH -->
+        <div class="search-box">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search company..."
+            >
+        </div>
+
+        <!-- FILTER -->
+        <div class="filter-box">
+            <select id="filterStatus">
+                <option value="all">All Applications</option>
+                <option value="Applied">Applied</option>
+                <option value="Interview">Interview</option>
+                <option value="Accepted">Accepted</option>
+                <option value="Rejected">Rejected</option>
+            </select>
+        </div>
+
+        <!-- APPLICATIONS -->
+        <section class="applications">
+            <h2>Your Applications</h2>
+            <div class="applications-container"></div>
+        </section>
+
+    </div>
+
+    <div id="toast"></div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
