@@ -12,7 +12,11 @@ A modern and simple web application to track job applications efficiently with a
 
 ## 📸 Preview
 
-![App Screenshot](.png)
+<p align="center">
+  <img src="Images/d1.png" width="45%" />
+  <img src="Images/d2.png" width="45%" />
+</p>
+                 
 
 ---
 
