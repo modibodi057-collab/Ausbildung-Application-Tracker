@@ -75,7 +75,7 @@ This project was built to simulate a real-world tracking system and improve core
 
 This project was built without external frameworks to focus on JavaScript fundamentals and clean UI design.
 ---
-<div class="footer">
-    <p>Designed & Developed by MOHAMMAD BAYDOUN</p>
-    <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-</div>
+## 👨‍💻 Author
+
+Designed & Developed by MOHAMMAD BAYDOUN<BR>
+👉[GitHub](https://github.com/modibodi057-collab)
