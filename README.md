@@ -14,26 +14,13 @@ A modern and simple web application to track job applications efficiently with a
 
 <p align="center">
   <img src="Images/dashbord.png" width="48%" />
-  <img src="Images/applications.png" width="48
-
-https://github.com/user-attachments/assets/76d4aa2b-d726-4f2a-99df-91dfd4a64715
-
-
-
-https://github.com/user-attachments/assets/fdbc3122-ec83-4d4f-afdb-97ec3ce4a5bf
-
-%" />
-</p>
-                 
-
+  <img src="Images/applications.png" width="48%"/>
 ---
 
 ## 🎥 Demo Video
 
 <p align="center">
-  <video src="
-
-" width="100%" controls></video>
+  <video src="https://github.com/user-attachments/assets/bfabe0e4-2fb0-4a5c-b820-fce9b6a2fdd4" width="100%" controls></video>
 </p>
 
 ---
@@ -87,3 +74,8 @@ This project was built to simulate a real-world tracking system and improve core
 ## 📌 Note
 
 This project was built without external frameworks to focus on JavaScript fundamentals and clean UI design.
+---
+<div class="footer">
+    <p>Designed & Developed by MOHAMMAD BAYDOUN</p>
+    <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+</div>
