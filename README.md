@@ -13,8 +13,16 @@ A modern and simple web application to track job applications efficiently with a
 ## 📸 Preview
 
 <p align="center">
-  <img src="Images/d1.png" width="45%" />
-  <img src="Images/d2.png" width="45%" />
+  <img src="Images/dashbord.png" width="48%" />
+  <img src="Images/applications.png" width="48
+
+https://github.com/user-attachments/assets/76d4aa2b-d726-4f2a-99df-91dfd4a64715
+
+
+
+https://github.com/user-attachments/assets/fdbc3122-ec83-4d4f-afdb-97ec3ce4a5bf
+
+%" />
 </p>
                  
 
